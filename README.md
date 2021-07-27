@@ -1,5 +1,5 @@
 # EnvoyMonitor
-Simple Windows power monitor tool for reading data from a home's Enphase Envoy.
+Simple WinForm app which can read and log data from a home's Enphase Envoy.
 
 - Monitor in near real-time your home's PV system power readings such as Power Produced, Consumed, and Net Consumed.
 - Save readings to SQLdb and Export them to an CSV file which can be opened in apps such as Excel.
